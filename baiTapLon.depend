@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1620216350 source:c:\1234\baitaplon\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<SDL_mixer.h>
+	"checkScore.h"
+	"text.h"
+	"initialize.h"
+	"print.h"
+
+1620191072 c:\1234\baitaplon\checkscore.h
+	<iostream>
+
+1620191029 source:c:\1234\baitaplon\checkscore.cpp
+	"checkScore.h"
+
+1620204250 c:\1234\baitaplon\text.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<bits/stdc++.h>
+
+1620204250 source:c:\1234\baitaplon\text.cpp
+	"text.h"
+
+1620205460 c:\1234\baitaplon\initialize.h
+	<SDL.h>
+	<bits/stdc++.h>
+
+1620205012 source:c:\1234\baitaplon\initialize.cpp
+	"initialize.h"
+
+1620214365 source:c:\1234\baitaplon\winlose.cpp
+	"winLose.h"
+
+1620214365 c:\1234\baitaplon\winlose.h
+	<SDL.h>
+	"initialize.h"
+
+1620216517 c:\1234\baitaplon\print.h
+	"initialize.h"
+	"winLose.h"
+
