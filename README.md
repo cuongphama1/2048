@@ -2,7 +2,9 @@
 
 # Hướng dẫn cài đặt : 
  b1: chọn phần download code , chọn downloadzip
+ 
  b2: giải nén thư mục vừa download
+ 
  b3: chọn bin , vào baiTapLon.exe để chạy chương trình
  
 # Mô tả : 
